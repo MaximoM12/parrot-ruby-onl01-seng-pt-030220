@@ -3,7 +3,7 @@
  phrase = parrot("Pretty bird!")
 
 def parrot(a, b) 
-parrot = a, b
+if parrot = 
 a = "Squawk!"
  puts "Squawk!"
   return "Squawk!"
