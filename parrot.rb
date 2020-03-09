@@ -3,10 +3,10 @@
  phrase = parrot("Pretty bird!")
 
 def parrot(a, b) 
-parrot = (a="Squawk!" b="Pretty bird!") 
+a = "Squawk!"
  puts "Squawk!"
   return "Squawk!"
- 
+ b = "Pretty bird!"
    puts "Pretty bird!"
     return "Pretty bird!"
 end
